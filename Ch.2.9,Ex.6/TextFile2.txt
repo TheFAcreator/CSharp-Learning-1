@@ -1,0 +1,4 @@
+this_is_the_text_the_program_is_going_to_read,
+change_the_spaces_to_underscores,
+change_uppercase_letters_to_lowercase_letters,
+and_write_the_modified_text_to_another_file.

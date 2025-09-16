@@ -1,0 +1,4 @@
+﻿This is the text the Program is going to read,
+change the spaces to underscores,
+change Uppercase letters to lowercase letters,
+and write the modified text to another file.
